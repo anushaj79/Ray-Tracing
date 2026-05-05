@@ -1,5 +1,16 @@
-// hide executable files and object files
-*.o
-*.obj
+# Compiled Executables
 *.exe
 *.out
+*.app
+ppm_image # Your previous executable name
+
+# Build Folders
+build/
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# Image Outputs
+output/*.ppm
+*.ppm
