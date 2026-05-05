@@ -1,5 +1,7 @@
 #include <iostream>
-// program generates a PPM image with a gradient from black to red and green.
+// program generates a PPM image with a gradient from black to red and green
+// to save to a ppm file, run: ./ppm_image > image.ppm       
+// used pbm/ppm/pgm viewer extension to view the generated image 
 int main() {
     //image
     int image_width = 256;
