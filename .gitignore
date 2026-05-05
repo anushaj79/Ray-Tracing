@@ -1,0 +1,5 @@
+// hide executable files and object files
+*.o
+*.obj
+*.exe
+*.out
